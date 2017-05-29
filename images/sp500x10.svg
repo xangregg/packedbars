@@ -1,0 +1,2157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1030" height="536" viewBox="0 0 1030 536">
+ <g stroke="#000000" fill="#000000" font-family="Helvetica Neue" font-size="18">
+  <g>
+   <g>
+    <clipPath id="clip1">
+     <path d="M-99999.5,0.5 L-99999.5,100000.5 L100000.5,100000.5 L100000.5,0.5 z"/>
+    </clipPath>
+    <g clip-path="url(#clip1)">
+     <g fill="#DDDDDD">
+      <rect stroke="none" x="177.5" y="27.5" width="831" height="469"/>
+     </g>
+     <g>
+      <clipPath id="clip2" clip-path="url(#clip1)">
+       <path d="M0.5,1.5 L0.5,25.5 L1008.5,25.5 L1008.5,1.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip2)">
+       <g>
+        <g>
+         <g fill="#000000" font-size="20">
+          <text stroke="none" x="376.5" y="25.5">S&amp;P 500 Market Capitalization</text>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip4" clip-path="url(#clip1)">
+       <path d="M177.5,518.5 L177.5,536.5 L1008.5,536.5 L1008.5,518.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip4)">
+       <g>
+        <clipPath id="clip5" clip-path="url(#clip4)">
+         <path d="M589.5,518.5 L589.5,534.5 L595.5,534.5 L595.5,518.5 z"/>
+        </clipPath>
+        <g clip-path="url(#clip5)"/>
+       </g>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip6" clip-path="url(#clip1)">
+       <path d="M167.5,496.5 L167.5,518.5 L1018.5,518.5 L1018.5,496.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip6)">
+       <g stroke="#7F7F7F">
+        <path fill="none" d="M269.5,496.5 L269.5,499.5"/>
+        <path fill="none" d="M454.5,496.5 L454.5,499.5"/>
+        <path fill="none" d="M638.5,496.5 L638.5,499.5"/>
+        <path fill="none" d="M823.5,496.5 L823.5,499.5"/>
+        <path fill="none" d="M1008.5,496.5 L1008.5,499.5"/>
+        <path fill="none" d="M177.5,496.5 L177.5,502.5"/>
+        <path fill="none" d="M362.5,496.5 L362.5,502.5"/>
+        <path fill="none" d="M546.5,496.5 L546.5,502.5"/>
+        <path fill="none" d="M731.5,496.5 L731.5,502.5"/>
+        <path fill="none" d="M915.5,496.5 L915.5,502.5"/>
+       </g>
+       <g font-size="13">
+        <text stroke="none" x="177.5" y="503.5" dy="14.3" text-anchor="middle">0</text>
+        <text stroke="none" x="362.5" y="503.5" dy="14.3" text-anchor="middle">$500B</text>
+        <text stroke="none" x="546.5" y="503.5" dy="14.3" text-anchor="middle">$1000B</text>
+        <text stroke="none" x="731.5" y="503.5" dy="14.3" text-anchor="middle">$1500B</text>
+        <text stroke="none" x="915.5" y="503.5" dy="14.3" text-anchor="middle">$2000B</text>
+       </g>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip7" clip-path="url(#clip1)">
+       <path d="M177.5,496.5 L177.5,518.5 L1008.5,518.5 L1008.5,496.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip7)"/>
+     </g>
+     <g>
+      <clipPath id="clip8" clip-path="url(#clip1)">
+       <path d="M0.5,27.5 L0.5,496.5 L18.5,496.5 L18.5,27.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip8)"/>
+     </g>
+     <g>
+      <clipPath id="clip9" clip-path="url(#clip1)">
+       <path d="M18.5,17.5 L18.5,506.5 L177.5,506.5 L177.5,17.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip9)">
+       <g font-size="15">
+        <text stroke="none" x="175.5" y="473.5" dy="7.5" text-anchor="end">Wells Fargo</text>
+        <text stroke="none" x="175.5" y="426.5" dy="7.5" text-anchor="end">JPMorgan Chase &amp; Co</text>
+        <text stroke="none" x="175.5" y="379.5" dy="7.5" text-anchor="end">Johnson &amp; Johnson</text>
+        <text stroke="none" x="175.5" y="332.5" dy="7.5" text-anchor="end">Exxon Mobil</text>
+        <text stroke="none" x="175.5" y="285.5" dy="7.5" text-anchor="end">Facebook</text>
+        <text stroke="none" x="175.5" y="238.5" dy="7.5" text-anchor="end">Amazon.com</text>
+        <text stroke="none" x="175.5" y="191.5" dy="7.5" text-anchor="end">Berkshire Hathaway</text>
+        <text stroke="none" x="175.5" y="144.5" dy="7.5" text-anchor="end">Microsoft</text>
+        <text stroke="none" x="175.5" y="97.5" dy="7.5" text-anchor="end">Apple</text>
+        <text stroke="none" x="175.5" y="50.5" dy="7.5" text-anchor="end">Alphabet</text>
+       </g>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip10" clip-path="url(#clip1)">
+       <path d="M18.5,27.5 L18.5,496.5 L177.5,496.5 L177.5,27.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip10)"/>
+     </g>
+     <g fill="#FFFFFF">
+      <rect stroke="none" x="177.5" y="27.5" width="831" height="469"/>
+     </g>
+     <g>
+      <g>
+       <clipPath id="clip11" clip-path="url(#clip1)">
+        <path d="M177.5,27.5 L177.5,496.5 L1008.5,496.5 L1008.5,27.5 z"/>
+       </clipPath>
+       <g clip-path="url(#clip11)">
+        <g>
+         <g stroke="none" fill="#5576BD">
+          <title>Wells Fargo Market Cap: $291.7B</title>
+          <rect x="177.5" y="452.41" width="107.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>JPMorgan Chase &amp; Co Market Cap: $325.49B</title>
+          <rect x="177.5" y="405.51" width="120.17" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Johnson &amp; Johnson Market Cap: $335.99B</title>
+          <rect x="177.5" y="358.61" width="124.04" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Exxon Mobil Market Cap: $342.17B</title>
+          <rect x="177.5" y="311.71" width="126.33" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Facebook Market Cap: $396.79B</title>
+          <rect x="177.5" y="264.81" width="146.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Amazon.com Market Cap: $403.7B</title>
+          <rect x="177.5" y="217.91" width="149.04" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Berkshire Hathaway Market Cap: $408.7B</title>
+          <rect x="177.5" y="171.01" width="150.89" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Microsoft Market Cap: $497.65B</title>
+          <rect x="177.5" y="124.11" width="183.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Apple Market Cap: $732B</title>
+          <rect x="177.5" y="77.21" width="270.25" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#5576BD">
+          <title>Alphabet Market Cap: $1163.7B</title>
+          <rect x="177.5" y="30.31" width="429.63" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Bank of America Market Cap: $265.12B</title>
+          <rect x="285.19" y="452.41" width="97.88" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="334.63" y="463.55" dy="7" text-anchor="middle">Bank of</text>
+          <text stroke="none" x="334.63" y="482.55" dy="7" text-anchor="middle">America</text>
+        </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>General Electric Market Cap: $260.52B</title>
+          <rect x="297.67" y="405.51" width="96.18" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="346.26" y="416.65" dy="7" text-anchor="middle">General </text>
+          <text stroke="none" x="346.26" y="435.65" dy="7" text-anchor="middle">Electric</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>AT&amp;T Market Cap: $257.21B</title>
+          <rect x="301.54" y="358.61" width="94.96" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="349.52" y="379.25" dy="7" text-anchor="middle">AT&amp;T</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Procter &amp; Gamble Market Cap: $230.82B</title>
+          <rect x="303.83" y="311.71" width="85.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="346.93" y="322.85" dy="7" text-anchor="middle">Procter &amp; </text>
+          <text stroke="none" x="346.93" y="341.85" dy="7" text-anchor="middle">Gamble</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Wal-Mart Stores Market Cap: $214.15B</title>
+          <rect x="323.99" y="264.81" width="79.06" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="364.02" y="275.95" dy="7" text-anchor="middle">Wal-Mart </text>
+          <text stroke="none" x="364.02" y="294.95" dy="7" text-anchor="middle">Stores</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Chevron Market Cap: $211.67B</title>
+          <rect x="326.54" y="217.91" width="78.15" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="366.11" y="238.55" dy="7" text-anchor="middle">Chevron</text>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Visa Market Cap: $206.98B</title>
+          <rect x="328.39" y="171.01" width="76.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="367.09" y="191.65" dy="7" text-anchor="middle">Visa</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Pfizer Market Cap: $202.3B</title>
+          <rect x="361.23" y="124.11" width="74.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="399.07" y="144.75" dy="7" text-anchor="middle">Pfizer</text>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Verizon Communications Market Cap: $201.55B</title>
+          <rect x="383.07" y="452.41" width="74.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#8C8C8C" font-size="14">
+          <text stroke="none" x="420.78" y="463.55" dy="7" text-anchor="middle">Verizon </text>
+          <text stroke="none" x="420.78" y="482.55" dy="7" text-anchor="middle">Communi…</text>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Merck &amp; Co Market Cap: $181.1B</title>
+          <rect x="389.04" y="311.71" width="66.86" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Coca Cola Company Market Cap: $180.28B</title>
+          <rect x="393.85" y="405.51" width="66.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Comcast Market Cap: $177.45B</title>
+          <rect x="396.5" y="358.61" width="65.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Home Depot Market Cap: $176.1B</title>
+          <rect x="403.05" y="264.81" width="65.01" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>The Walt Disney Company Market Cap: $175.3B</title>
+          <rect x="404.69" y="217.91" width="64.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Oracle Market Cap: $174.76B</title>
+          <rect x="404.8" y="171.01" width="64.52" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Philip Morris International Market Cap: $171.51B</title>
+          <rect x="435.91" y="124.11" width="63.32" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Cisco Systems Market Cap: $171.27B</title>
+          <rect x="447.75" y="77.21" width="63.23" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>International Business Machines Market Cap: $170.14B</title>
+          <rect x="455.9" y="311.71" width="62.81" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Intel Market Cap: $169.26B</title>
+          <rect x="457.48" y="452.41" width="62.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Citigroup Market Cap: $167.63B</title>
+          <rect x="460.41" y="405.51" width="61.89" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>United Health Group Market Cap: $160.08B</title>
+          <rect x="462.02" y="358.61" width="59.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>PepsiCo Market Cap: $156.02B</title>
+          <rect x="468.07" y="264.81" width="57.6" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Altria Group Market Cap: $147.64B</title>
+          <rect x="469.32" y="171.01" width="54.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Amgen Market Cap: $130.63B</title>
+          <rect x="469.41" y="217.91" width="48.23" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Mastercard Market Cap: $119.61B</title>
+          <rect x="499.23" y="124.11" width="44.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>3M Company Market Cap: $112.74B</title>
+          <rect x="510.98" y="77.21" width="41.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Twenty-First Century Fox Market Cap: $112.22B</title>
+          <rect x="517.63" y="217.91" width="41.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Medtronic Market Cap: $111.7B</title>
+          <rect x="518.72" y="311.71" width="41.24" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Boeing Company Market Cap: $111.48B</title>
+          <rect x="519.97" y="452.41" width="41.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Schlumberger Ltd Market Cap: $111.25B</title>
+          <rect x="521.12" y="358.61" width="41.07" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Kraft Heinz Market Cap: $110.52B</title>
+          <rect x="522.29" y="405.51" width="40.8" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>McDonald's Market Cap: $104.89B</title>
+          <rect x="523.83" y="171.01" width="38.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Goldman Sachs Group Market Cap: $104.08B</title>
+          <rect x="525.67" y="264.81" width="38.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>AbbVie Market Cap: $101.52B</title>
+          <rect x="543.39" y="124.11" width="37.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Honeywell Int'l Market Cap: $96.11B</title>
+          <rect x="552.6" y="77.21" width="35.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Celgene Market Cap: $94.97B</title>
+          <rect x="559.06" y="217.91" width="35.06" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Bristol-Myers Squibb Market Cap: $94.22B</title>
+          <rect x="559.95" y="311.71" width="34.78" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Nike Market Cap: $93.56B</title>
+          <rect x="561.13" y="452.41" width="34.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>U.S. Bancorp Market Cap: $93.22B</title>
+          <rect x="562.19" y="358.61" width="34.42" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Walgreens Boots Alliance Market Cap: $92.82B</title>
+          <rect x="562.55" y="171.01" width="34.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>United Parcel Service Market Cap: $91.91B</title>
+          <rect x="563.1" y="405.51" width="33.93" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>United Technologies Market Cap: $90.48B</title>
+          <rect x="564.09" y="264.81" width="33.4" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Gilead Sciences Market Cap: $90.21B</title>
+          <rect x="580.87" y="124.11" width="33.3" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Union Pacific Market Cap: $88.18B</title>
+          <rect x="588.08" y="77.21" width="32.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Broadcom Market Cap: $87.48B</title>
+          <rect x="594.13" y="217.91" width="32.3" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Reynolds American Market Cap: $87.24B</title>
+          <rect x="594.74" y="311.71" width="32.21" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Lilly (Eli) &amp; Co Market Cap: $86.95B</title>
+          <rect x="595.67" y="452.41" width="32.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Charter Communications Market Cap: $86.92B</title>
+          <rect x="596.6" y="358.61" width="32.09" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Morgan Stanley Market Cap: $86.46B</title>
+          <rect x="596.82" y="171.01" width="31.92" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>CVS Health Market Cap: $85.74B</title>
+          <rect x="597.03" y="405.51" width="31.65" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Priceline.com Market Cap: $85.38B</title>
+          <rect x="597.5" y="264.81" width="31.52" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>QUALCOMM Market Cap: $83.79B</title>
+          <rect x="607.13" y="30.31" width="30.93" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Starbucks Market Cap: $81.91B</title>
+          <rect x="614.18" y="124.11" width="30.24" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Allergan, Plc Market Cap: $80.32B</title>
+          <rect x="620.64" y="77.21" width="29.65" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Texas Instruments Market Cap: $79.09B</title>
+          <rect x="626.42" y="217.91" width="29.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Abbott Laboratories Market Cap: $77.76B</title>
+          <rect x="626.95" y="311.71" width="28.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Lockheed Martin Market Cap: $77.75B</title>
+          <rect x="627.77" y="452.41" width="28.7" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Accenture Market Cap: $77.29B</title>
+          <rect x="628.68" y="405.51" width="28.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Dow Chemical Market Cap: $76.62B</title>
+          <rect x="628.69" y="358.61" width="28.29" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Time Warner Market Cap: $76.07B</title>
+          <rect x="628.74" y="171.01" width="28.08" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Costco Co Market Cap: $73.3B</title>
+          <rect x="629.02" y="264.81" width="27.06" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>American Express Market Cap: $71.72B</title>
+          <rect x="638.06" y="30.31" width="26.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Lowe's Cos Market Cap: $70.01B</title>
+          <rect x="644.42" y="124.11" width="25.85" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Du Pont (E.I.) Market Cap: $68.64B</title>
+          <rect x="650.29" y="77.21" width="25.34" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Mondelez International Market Cap: $66B</title>
+          <rect x="655.62" y="217.91" width="24.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Colgate-Palmolive Market Cap: $65.08B</title>
+          <rect x="655.66" y="311.71" width="24.03" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Chubb Limited Market Cap: $64B</title>
+          <rect x="656.08" y="264.81" width="23.63" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>BIOGEN IDEC Market Cap: $62.86B</title>
+          <rect x="656.47" y="452.41" width="23.21" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>BlackRock Market Cap: $62.86B</title>
+          <rect x="656.83" y="171.01" width="23.21" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>American International Group Market Cap: $62.15B</title>
+          <rect x="656.98" y="358.61" width="22.95" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>PNC Financial Services Market Cap: $61.94B</title>
+          <rect x="657.22" y="405.51" width="22.87" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Thermo Fisher Scientific Market Cap: $61.39B</title>
+          <rect x="664.54" y="30.31" width="22.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>NextEra Energy Market Cap: $61.09B</title>
+          <rect x="670.26" y="124.11" width="22.55" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Netflix Market Cap: $60.87B</title>
+          <rect x="675.63" y="77.21" width="22.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Danaher Market Cap: $59.67B</title>
+          <rect x="679.68" y="452.41" width="22.03" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Adobe Systems Market Cap: $59.28B</title>
+          <rect x="679.68" y="311.71" width="21.89" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>ConocoPhillips Market Cap: $58.97B</title>
+          <rect x="679.71" y="264.81" width="21.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Nvidia Market Cap: $58.16B</title>
+          <rect x="679.93" y="358.61" width="21.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Salesforce.com Market Cap: $58.16B</title>
+          <rect x="679.99" y="217.91" width="21.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>MetLife Market Cap: $58.01B</title>
+          <rect x="680.03" y="171.01" width="21.42" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>General Dynamics Market Cap: $57.69B</title>
+          <rect x="680.08" y="405.51" width="21.3" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>EOG Resources Market Cap: $57.41B</title>
+          <rect x="687.2" y="30.31" width="21.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Duke Energy Market Cap: $57.15B</title>
+          <rect x="692.82" y="124.11" width="21.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Caterpillar Market Cap: $56.26B</title>
+          <rect x="698.1" y="77.21" width="20.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>General Motors Market Cap: $56.2B</title>
+          <rect x="701.38" y="405.51" width="20.75" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Charles Schwab Market Cap: $55.61B</title>
+          <rect x="701.4" y="358.61" width="20.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Simon Property Group Market Cap: $55.5B</title>
+          <rect x="701.45" y="171.01" width="20.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>PayPal Market Cap: $51.79B</title>
+          <rect x="701.46" y="217.91" width="19.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>TJX Companies Market Cap: $51.47B</title>
+          <rect x="701.48" y="264.81" width="19" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>FedEx Market Cap: $51.41B</title>
+          <rect x="701.57" y="311.71" width="18.98" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Monsanto Co Market Cap: $50.46B</title>
+          <rect x="701.71" y="452.41" width="18.63" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Southern Co Market Cap: $49.95B</title>
+          <rect x="708.4" y="30.31" width="18.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Ford Motor Market Cap: $49.52B</title>
+          <rect x="713.92" y="124.11" width="18.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>The Bank of New York Mellon Market Cap: $49.46B</title>
+          <rect x="718.88" y="77.21" width="18.26" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Occidental Petroleum Market Cap: $49.45B</title>
+          <rect x="720.34" y="452.41" width="18.26" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>American Tower A Market Cap: $49B</title>
+          <rect x="720.48" y="264.81" width="18.09" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Kinder Morgan Market Cap: $48.29B</title>
+          <rect x="720.55" y="311.71" width="17.83" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Stryker Market Cap: $48.15B</title>
+          <rect x="720.58" y="217.91" width="17.78" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Prudential Financial Market Cap: $47.83B</title>
+          <rect x="721.93" y="358.61" width="17.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Dominion Resources Market Cap: $47.81B</title>
+          <rect x="721.94" y="171.01" width="17.65" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Kimberly-Clark Market Cap: $47.52B</title>
+          <rect x="722.13" y="405.51" width="17.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Automatic Data Processing Market Cap: $46.81B</title>
+          <rect x="726.84" y="30.31" width="17.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Illinois Tool Works Market Cap: $46.4B</title>
+          <rect x="732.2" y="124.11" width="17.13" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Aetna Market Cap: $45.93B</title>
+          <rect x="737.14" y="77.21" width="16.96" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Halliburton Co Market Cap: $45.92B</title>
+          <rect x="738.36" y="217.91" width="16.95" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Raytheon Co Market Cap: $45.24B</title>
+          <rect x="738.38" y="311.71" width="16.7" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>CSX Market Cap: $44.88B</title>
+          <rect x="738.57" y="264.81" width="16.57" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Capital One Financial Market Cap: $44.57B</title>
+          <rect x="738.6" y="452.41" width="16.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Anthem Market Cap: $43.89B</title>
+          <rect x="739.59" y="358.61" width="16.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Yahoo Market Cap: $43.74B</title>
+          <rect x="739.59" y="171.01" width="16.15" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Northrop Grumman Market Cap: $42.56B</title>
+          <rect x="739.68" y="405.51" width="15.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>CME Group Market Cap: $41.97B</title>
+          <rect x="744.12" y="30.31" width="15.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Express Scripts Market Cap: $40.82B</title>
+          <rect x="749.33" y="124.11" width="15.07" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Carnival Market Cap: $40.31B</title>
+          <rect x="754.09" y="77.21" width="14.88" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Phillips 66 Market Cap: $40.12B</title>
+          <rect x="755.05" y="452.41" width="14.81" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Applied Materials Market Cap: $39.92B</title>
+          <rect x="755.08" y="311.71" width="14.74" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Public Storage Market Cap: $39.59B</title>
+          <rect x="755.14" y="264.81" width="14.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Regeneron Market Cap: $39.29B</title>
+          <rect x="755.31" y="217.91" width="14.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Becton Dickinson Market Cap: $39.15B</title>
+          <rect x="755.39" y="405.51" width="14.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>CIGNA Market Cap: $39.03B</title>
+          <rect x="755.74" y="171.01" width="14.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Johnson Controls International Market Cap: $38.93B</title>
+          <rect x="755.79" y="358.61" width="14.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Emerson Electric Company Market Cap: $38.85B</title>
+          <rect x="759.62" y="30.31" width="14.34" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>BB&amp;T Market Cap: $38.75B</title>
+          <rect x="764.4" y="124.11" width="14.31" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Hewlett Packard Enterprise Market Cap: $37.95B</title>
+          <rect x="768.97" y="77.21" width="14.01" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Marsh &amp; McLennan Market Cap: $37.91B</title>
+          <rect x="769.76" y="264.81" width="14" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>LyondellBasell Market Cap: $36.72B</title>
+          <rect x="769.82" y="311.71" width="13.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>eBay Market Cap: $36.38B</title>
+          <rect x="769.82" y="217.91" width="13.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Ecolab Market Cap: $36.38B</title>
+          <rect x="769.84" y="405.51" width="13.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Activision Blizzard Market Cap: $36.13B</title>
+          <rect x="769.86" y="452.41" width="13.34" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Norfolk Southern Market Cap: $35.45B</title>
+          <rect x="770.15" y="171.01" width="13.09" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Anadarko Petroleum Market Cap: $35.31B</title>
+          <rect x="770.16" y="358.61" width="13.04" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Cognizant Technology Solutions Market Cap: $35.2B</title>
+          <rect x="773.96" y="30.31" width="13" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Deere &amp; Co Market Cap: $35.09B</title>
+          <rect x="778.71" y="124.11" width="12.95" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Southwest Airlines Market Cap: $34.96B</title>
+          <rect x="782.98" y="77.21" width="12.91" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>General Mills Market Cap: $34.95B</title>
+          <rect x="783.2" y="358.61" width="12.9" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Delta Air Lines Market Cap: $34.68B</title>
+          <rect x="783.2" y="452.41" width="12.8" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>The Travelers Companies Market Cap: $34.16B</title>
+          <rect x="783.24" y="171.01" width="12.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Praxair Market Cap: $33.86B</title>
+          <rect x="783.25" y="217.91" width="12.5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>S&amp;P Global Market Cap: $33.77B</title>
+          <rect x="783.27" y="405.51" width="12.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>PG&amp;E Market Cap: $33.65B</title>
+          <rect x="783.37" y="311.71" width="12.42" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Exelon Market Cap: $33.48B</title>
+          <rect x="783.75" y="264.81" width="12.36" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Boston Scientific Market Cap: $33.38B</title>
+          <rect x="786.95" y="30.31" width="12.32" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Marriott Int'l Market Cap: $33.04B</title>
+          <rect x="791.66" y="124.11" width="12.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Crown Castle International Market Cap: $32.99B</title>
+          <rect x="795.74" y="405.51" width="12.18" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Pioneer Natural Resources Market Cap: $32.93B</title>
+          <rect x="795.75" y="217.91" width="12.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>American Electric Power Market Cap: $32.57B</title>
+          <rect x="795.8" y="311.71" width="12.02" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Humana Market Cap: $32.55B</title>
+          <rect x="795.85" y="171.01" width="12.02" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Eaton Market Cap: $32.17B</title>
+          <rect x="795.89" y="77.21" width="11.88" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Discovery Communications Market Cap: $32.16B</title>
+          <rect x="796.01" y="452.41" width="11.87" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Intuit Market Cap: $32.08B</title>
+          <rect x="796.1" y="358.61" width="11.84" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>HCA Holdings Market Cap: $32.07B</title>
+          <rect x="796.11" y="264.81" width="11.84" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Waste Management Market Cap: $31.97B</title>
+          <rect x="799.28" y="30.31" width="11.8" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>McKesson Market Cap: $31.22B</title>
+          <rect x="803.86" y="124.11" width="11.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Constellation Brands Market Cap: $30.82B</title>
+          <rect x="807.77" y="77.21" width="11.38" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Target Market Cap: $30.67B</title>
+          <rect x="807.82" y="311.71" width="11.32" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>State Street Market Cap: $30.4B</title>
+          <rect x="807.86" y="171.01" width="11.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Air Products &amp; Chemicals Market Cap: $30.38B</title>
+          <rect x="807.88" y="452.41" width="11.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Aon Market Cap: $30.34B</title>
+          <rect x="807.91" y="217.91" width="11.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Estee Lauder Cos Market Cap: $30.33B</title>
+          <rect x="807.92" y="405.51" width="11.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Allstate Market Cap: $29.74B</title>
+          <rect x="807.95" y="358.61" width="10.98" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Valero Energy Market Cap: $29.6B</title>
+          <rect x="807.95" y="264.81" width="10.93" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>HP Market Cap: $29.43B</title>
+          <rect x="811.08" y="30.31" width="10.87" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>SunTrust Banks Market Cap: $29.33B</title>
+          <rect x="815.38" y="124.11" width="10.83" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Alexion Pharmaceuticals Market Cap: $29.02B</title>
+          <rect x="818.88" y="264.81" width="10.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>AFLAC Market Cap: $28.88B</title>
+          <rect x="818.93" y="358.61" width="10.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Synchrony Financial Market Cap: $28.86B</title>
+          <rect x="819.09" y="171.01" width="10.65" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Sherwin-Williams Market Cap: $28.74B</title>
+          <rect x="819.1" y="452.41" width="10.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Intuitive Surgical Market Cap: $28.32B</title>
+          <rect x="819.11" y="217.91" width="10.46" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Micron Technology Market Cap: $28.27B</title>
+          <rect x="819.12" y="405.51" width="10.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Sysco Market Cap: $28.25B</title>
+          <rect x="819.14" y="311.71" width="10.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>CBS Market Cap: $27.82B</title>
+          <rect x="819.15" y="77.21" width="10.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Sempra Energy Market Cap: $27.71B</title>
+          <rect x="821.95" y="30.31" width="10.23" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Baxter International Market Cap: $27.57B</title>
+          <rect x="826.21" y="124.11" width="10.18" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Discover Financial Services Market Cap: $27.37B</title>
+          <rect x="829.42" y="77.21" width="10.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Electronic Arts Market Cap: $27.22B</title>
+          <rect x="829.55" y="405.51" width="10.05" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Fidelity National Information Services Market Cap: $27.17B</title>
+          <rect x="829.56" y="217.91" width="10.03" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Equinix Market Cap: $26.88B</title>
+          <rect x="829.57" y="311.71" width="9.92" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Prologis Market Cap: $26.76B</title>
+          <rect x="829.59" y="358.61" width="9.88" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Kroger Co Market Cap: $26.62B</title>
+          <rect x="829.59" y="264.81" width="9.83" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Marathon Petroleum Market Cap: $26.47B</title>
+          <rect x="829.71" y="452.41" width="9.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Monster Beverage Market Cap: $26.46B</title>
+          <rect x="829.74" y="171.01" width="9.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>TE Connectivity Ltd Market Cap: $26.42B</title>
+          <rect x="832.18" y="30.31" width="9.75" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Zoetis Market Cap: $26.11B</title>
+          <rect x="836.39" y="124.11" width="9.64" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Kellogg Co Market Cap: $26.03B</title>
+          <rect x="839.42" y="264.81" width="9.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Ross Stores Market Cap: $25.96B</title>
+          <rect x="839.47" y="358.61" width="9.58" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>PPG Industries Market Cap: $25.91B</title>
+          <rect x="839.48" y="452.41" width="9.57" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Edison Int'l Market Cap: $25.82B</title>
+          <rect x="839.5" y="311.71" width="9.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Analog Devices Market Cap: $25.79B</title>
+          <rect x="839.51" y="171.01" width="9.52" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Corning Market Cap: $25.73B</title>
+          <rect x="839.52" y="77.21" width="9.5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>M&amp;T Bank Market Cap: $25.71B</title>
+          <rect x="839.59" y="217.91" width="9.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Cardinal Health Market Cap: $25.62B</title>
+          <rect x="839.6" y="405.51" width="9.46" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Cummins Market Cap: $25.48B</title>
+          <rect x="841.93" y="30.31" width="9.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Archer-Daniels-Midland Market Cap: $25.39B</title>
+          <rect x="846.03" y="124.11" width="9.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Baker Hughes Market Cap: $25.27B</title>
+          <rect x="849.02" y="77.21" width="9.33" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Incyte Market Cap: $25.27B</title>
+          <rect x="849.03" y="311.71" width="9.33" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>AvalonBay Communities Market Cap: $25.14B</title>
+          <rect x="849.03" y="264.81" width="9.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Fiserv Market Cap: $25.09B</title>
+          <rect x="849.03" y="171.01" width="9.26" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Weyerhaeuser Market Cap: $25.07B</title>
+          <rect x="849.04" y="452.41" width="9.26" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>PPL Market Cap: $25.04B</title>
+          <rect x="849.05" y="358.61" width="9.24" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Welltower Market Cap: $24.83B</title>
+          <rect x="849.06" y="405.51" width="9.17" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>O'Reilly Automotive Market Cap: $24.73B</title>
+          <rect x="849.08" y="217.91" width="9.13" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Williams Cos Market Cap: $24.3B</title>
+          <rect x="851.34" y="30.31" width="8.97" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Illumina Market Cap: $24.22B</title>
+          <rect x="855.4" y="124.11" width="8.94" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Franklin Resources Market Cap: $23.96B</title>
+          <rect x="858.21" y="217.91" width="8.85" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>PACCAR Market Cap: $23.71B</title>
+          <rect x="858.23" y="405.51" width="8.75" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Zimmer Biomet Holdings Market Cap: $23.54B</title>
+          <rect x="858.3" y="171.01" width="8.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Newell Brands Market Cap: $23.41B</title>
+          <rect x="858.3" y="358.61" width="8.64" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Consolidated Edison Market Cap: $23.38B</title>
+          <rect x="858.3" y="452.41" width="8.63" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Mylan N.V Market Cap: $23.2B</title>
+          <rect x="858.31" y="264.81" width="8.57" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>The Hershey Company Market Cap: $22.97B</title>
+          <rect x="858.35" y="77.21" width="8.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Equity Residential Market Cap: $22.96B</title>
+          <rect x="858.36" y="311.71" width="8.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Devon Energy Market Cap: $22.85B</title>
+          <rect x="860.31" y="30.31" width="8.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>United Continental Holdings Market Cap: $22.85B</title>
+          <rect x="864.35" y="124.11" width="8.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Progressive Market Cap: $22.84B</title>
+          <rect x="866.83" y="77.21" width="8.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Public Serv. Enterprise Market Cap: $22.77B</title>
+          <rect x="866.84" y="311.71" width="8.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Tyson Foods Market Cap: $22.72B</title>
+          <rect x="866.88" y="264.81" width="8.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Vertex Pharmaceuticals Market Cap: $22.69B</title>
+          <rect x="866.93" y="452.41" width="8.38" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Yum! Brands Market Cap: $22.65B</title>
+          <rect x="866.94" y="358.61" width="8.36" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>American Airlines Group Market Cap: $22.61B</title>
+          <rect x="866.98" y="405.51" width="8.35" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Paychex Market Cap: $22.31B</title>
+          <rect x="866.99" y="171.01" width="8.24" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Xcel Energy Market Cap: $22.23B</title>
+          <rect x="867.06" y="217.91" width="8.21" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Ventas Market Cap: $22.22B</title>
+          <rect x="868.74" y="30.31" width="8.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Western Digital Market Cap: $22.12B</title>
+          <rect x="872.78" y="124.11" width="8.17" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>V.F. Market Cap: $21.79B</title>
+          <rect x="875.22" y="171.01" width="8.04" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Amphenol Market Cap: $21.62B</title>
+          <rect x="875.24" y="311.71" width="7.98" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Roper Industries Market Cap: $21.57B</title>
+          <rect x="875.26" y="77.21" width="7.96" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Moody's Market Cap: $21.5B</title>
+          <rect x="875.27" y="264.81" width="7.94" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>International Paper Market Cap: $21.17B</title>
+          <rect x="875.27" y="217.91" width="7.82" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>General Growth Properties Market Cap: $21.14B</title>
+          <rect x="875.3" y="358.61" width="7.8" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Republic Services Market Cap: $21.05B</title>
+          <rect x="875.31" y="452.41" width="7.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Parker-Hannifin Market Cap: $20.99B</title>
+          <rect x="875.33" y="405.51" width="7.75" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Boston Properties Market Cap: $20.87B</title>
+          <rect x="876.95" y="30.31" width="7.7" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Molson Coors Brewing Company Market Cap: $20.85B</title>
+          <rect x="880.95" y="124.11" width="7.7" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Ingersoll-Rand PLC Market Cap: $20.65B</title>
+          <rect x="883.08" y="405.51" width="7.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Fifth Third Bancorp Market Cap: $20.55B</title>
+          <rect x="883.08" y="452.41" width="7.59" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Delphi Automotive Market Cap: $20.48B</title>
+          <rect x="883.08" y="217.91" width="7.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Vornado Realty Trust Market Cap: $20.39B</title>
+          <rect x="883.11" y="358.61" width="7.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Ameriprise Financial Market Cap: $20.36B</title>
+          <rect x="883.2" y="264.81" width="7.52" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Royal Caribbean Cruises Ltd Market Cap: $20.31B</title>
+          <rect x="883.22" y="311.71" width="7.5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>AutoZone Market Cap: $20.29B</title>
+          <rect x="883.23" y="77.21" width="7.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Northern Trust Market Cap: $20.22B</title>
+          <rect x="883.27" y="171.01" width="7.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>KeyCorp Market Cap: $20.15B</title>
+          <rect x="884.65" y="30.31" width="7.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Fortive Market Cap: $20.13B</title>
+          <rect x="888.65" y="124.11" width="7.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Level 3 Communications Market Cap: $20B</title>
+          <rect x="890.63" y="358.61" width="7.38" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Brown-Forman Market Cap: $19.9B</title>
+          <rect x="890.64" y="217.91" width="7.35" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Rockwell Automation Market Cap: $19.75B</title>
+          <rect x="890.67" y="452.41" width="7.29" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Omnicom Group Market Cap: $19.72B</title>
+          <rect x="890.7" y="405.51" width="7.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Dollar General Market Cap: $19.71B</title>
+          <rect x="890.72" y="77.21" width="7.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Stanley Black &amp; Decker Market Cap: $19.52B</title>
+          <rect x="890.72" y="264.81" width="7.21" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Apache Market Cap: $19.47B</title>
+          <rect x="890.72" y="311.71" width="7.19" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Nucor Market Cap: $19.43B</title>
+          <rect x="890.73" y="171.01" width="7.17" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Concho Resources Market Cap: $19.35B</title>
+          <rect x="892.09" y="30.31" width="7.14" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Citizens Financial Group Market Cap: $19.33B</title>
+          <rect x="896.08" y="124.11" width="7.14" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Edwards Lifesciences Market Cap: $19.24B</title>
+          <rect x="897.91" y="171.01" width="7.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>AmerisourceBergen Market Cap: $19.22B</title>
+          <rect x="897.91" y="311.71" width="7.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Lam Research Market Cap: $19.12B</title>
+          <rect x="897.93" y="264.81" width="7.06" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Wec Energy Group Market Cap: $18.71B</title>
+          <rect x="897.96" y="452.41" width="6.91" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Eversource Energy Market Cap: $18.56B</title>
+          <rect x="897.98" y="405.51" width="6.85" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Hormel Foods Market Cap: $18.42B</title>
+          <rect x="897.99" y="217.91" width="6.8" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Regions Financial Market Cap: $18.38B</title>
+          <rect x="897.99" y="77.21" width="6.79" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Expedia Market Cap: $18.34B</title>
+          <rect x="898.02" y="358.61" width="6.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Freeport-McMoRan Market Cap: $18.34B</title>
+          <rect x="899.24" y="30.31" width="6.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>DTE Energy Co Market Cap: $18.22B</title>
+          <rect x="903.21" y="124.11" width="6.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Autodesk Market Cap: $18.15B</title>
+          <rect x="904.78" y="77.21" width="6.7" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Symantec Market Cap: $18.13B</title>
+          <rect x="904.79" y="358.61" width="6.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Cerner Market Cap: $18.12B</title>
+          <rect x="904.79" y="217.91" width="6.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Principal Financial Group Market Cap: $18.12B</title>
+          <rect x="904.84" y="405.51" width="6.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Campbell Soup Market Cap: $18.08B</title>
+          <rect x="904.87" y="452.41" width="6.67" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Hartford Financial Svc.Gp Market Cap: $18.01B</title>
+          <rect x="904.99" y="264.81" width="6.65" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Dollar Tree Market Cap: $17.76B</title>
+          <rect x="905.01" y="311.71" width="6.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>ConAgra Foods Market Cap: $17.73B</title>
+          <rect x="905.01" y="171.01" width="6.55" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Bard (C.R.) Market Cap: $17.7B</title>
+          <rect x="906.01" y="30.31" width="6.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Skyworks Solutions Market Cap: $17.58B</title>
+          <rect x="909.94" y="124.11" width="6.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>The Clorox Company Market Cap: $17.56B</title>
+          <rect x="911.48" y="77.21" width="6.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Newmont Mining. (Hldg. Co.) Market Cap: $17.52B</title>
+          <rect x="911.48" y="217.91" width="6.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Willis Towers Watson Market Cap: $17.45B</title>
+          <rect x="911.48" y="358.61" width="6.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>T. Rowe Price Group Market Cap: $17.26B</title>
+          <rect x="911.53" y="405.51" width="6.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Dr Pepper Snapple Group Market Cap: $17.25B</title>
+          <rect x="911.54" y="452.41" width="6.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Digital Realty Trust Market Cap: $17.12B</title>
+          <rect x="911.55" y="171.01" width="6.32" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Viacom Market Cap: $17.04B</title>
+          <rect x="911.56" y="311.71" width="6.29" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Mohawk Industries Market Cap: $16.86B</title>
+          <rect x="911.64" y="264.81" width="6.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Ulta Salon Cosmetics &amp; Fragrance Market Cap: $16.8B</title>
+          <rect x="912.54" y="30.31" width="6.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Under Armour Market Cap: $16.57B</title>
+          <rect x="916.43" y="124.11" width="6.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Agilent Technologies Market Cap: $16.49B</title>
+          <rect x="917.85" y="311.71" width="6.09" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>JM Smucker Market Cap: $16.21B</title>
+          <rect x="917.86" y="264.81" width="5.98" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Mead Johnson Market Cap: $16.2B</title>
+          <rect x="917.88" y="171.01" width="5.98" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Microchip Technology Market Cap: $15.98B</title>
+          <rect x="917.9" y="405.51" width="5.9" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Loews Market Cap: $15.97B</title>
+          <rect x="917.91" y="452.41" width="5.9" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Nielsen Holdings Market Cap: $15.91B</title>
+          <rect x="917.92" y="358.61" width="5.87" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Equifax Market Cap: $15.75B</title>
+          <rect x="917.95" y="217.91" width="5.81" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Linear Technology Market Cap: $15.73B</title>
+          <rect x="917.96" y="77.21" width="5.81" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Hess Market Cap: $15.67B</title>
+          <rect x="918.74" y="30.31" width="5.79" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Vulcan Materials Market Cap: $15.67B</title>
+          <rect x="922.55" y="124.11" width="5.79" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Lincoln National Market Cap: $15.6B</title>
+          <rect x="923.76" y="217.91" width="5.76" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Realty Income Market Cap: $15.57B</title>
+          <rect x="923.77" y="77.21" width="5.75" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Noble Energy Market Cap: $15.5B</title>
+          <rect x="923.8" y="405.51" width="5.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Huntington Bancshares Market Cap: $15.46B</title>
+          <rect x="923.8" y="358.61" width="5.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Essex Property Trust Market Cap: $15.32B</title>
+          <rect x="923.8" y="452.41" width="5.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>News Market Cap: $14.92B</title>
+          <rect x="923.85" y="264.81" width="5.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>National Oilwell Varco Market Cap: $14.88B</title>
+          <rect x="923.86" y="171.01" width="5.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Fastenal Market Cap: $14.86B</title>
+          <rect x="923.94" y="311.71" width="5.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Grainger (W.W.) Market Cap: $14.74B</title>
+          <rect x="924.53" y="30.31" width="5.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>HCP Market Cap: $14.65B</title>
+          <rect x="928.33" y="124.11" width="5.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Xilinx Market Cap: $14.62B</title>
+          <rect x="929.35" y="171.01" width="5.4" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Red Hat Market Cap: $14.61B</title>
+          <rect x="929.35" y="264.81" width="5.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Laboratory. of America Holding Market Cap: $14.54B</title>
+          <rect x="929.43" y="311.71" width="5.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Dentsply Sirona Market Cap: $14.37B</title>
+          <rect x="929.46" y="452.41" width="5.31" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>L Brands Market Cap: $14.35B</title>
+          <rect x="929.5" y="358.61" width="5.3" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>KLA-Tencor Market Cap: $14.27B</title>
+          <rect x="929.52" y="77.21" width="5.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Seagate Technology Market Cap: $14.25B</title>
+          <rect x="929.52" y="405.51" width="5.26" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Coty, Market Cap: $14.05B</title>
+          <rect x="929.52" y="217.91" width="5.19" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Best Buy Co. Market Cap: $13.96B</title>
+          <rect x="929.97" y="30.31" width="5.15" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Genuine Parts Market Cap: $13.88B</title>
+          <rect x="933.74" y="124.11" width="5.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>FirstEnergy Market Cap: $13.8B</title>
+          <rect x="934.71" y="217.91" width="5.09" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Marathon Oil Market Cap: $13.79B</title>
+          <rect x="934.75" y="264.81" width="5.09" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Alliance Data Systems Market Cap: $13.7B</title>
+          <rect x="934.75" y="171.01" width="5.06" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>American Water Works Company Market Cap: $13.7B</title>
+          <rect x="934.77" y="452.41" width="5.06" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Harris Market Cap: $13.66B</title>
+          <rect x="934.78" y="405.51" width="5.04" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Verisk Analytics Market Cap: $13.61B</title>
+          <rect x="934.79" y="77.21" width="5.02" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Henry Schein Market Cap: $13.55B</title>
+          <rect x="934.8" y="311.71" width="5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Quest Diagnostics Market Cap: $13.5B</title>
+          <rect x="934.8" y="358.61" width="4.98" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Entergy Market Cap: $13.45B</title>
+          <rect x="935.12" y="30.31" width="4.97" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Host Hotels &amp; Resorts Market Cap: $13.44B</title>
+          <rect x="938.87" y="124.11" width="4.96" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>CA Market Cap: $13.36B</title>
+          <rect x="939.79" y="358.61" width="4.93" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Ameren Market Cap: $13.3B</title>
+          <rect x="939.8" y="311.71" width="4.91" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>DaVita Market Cap: $13.26B</title>
+          <rect x="939.81" y="171.01" width="4.9" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Martin Marietta Materials Market Cap: $13.24B</title>
+          <rect x="939.81" y="217.91" width="4.89" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>L-3 Communications Holdings Market Cap: $13.15B</title>
+          <rect x="939.81" y="77.21" width="4.85" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Motorola Solutions Market Cap: $13.12B</title>
+          <rect x="939.82" y="405.51" width="4.84" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Whirlpool Market Cap: $13.06B</title>
+          <rect x="939.82" y="452.41" width="4.82" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>IDEXX Laboratories Market Cap: $12.94B</title>
+          <rect x="939.84" y="264.81" width="4.78" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Textron Market Cap: $12.92B</title>
+          <rect x="940.09" y="30.31" width="4.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Invesco Ltd Market Cap: $12.91B</title>
+          <rect x="943.83" y="124.11" width="4.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>TransDigm Group Market Cap: $12.82B</title>
+          <rect x="944.62" y="264.81" width="4.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>WestRock Company Market Cap: $12.79B</title>
+          <rect x="944.65" y="452.41" width="4.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Comerica Market Cap: $12.77B</title>
+          <rect x="944.67" y="405.51" width="4.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Rockwell Collins Market Cap: $12.75B</title>
+          <rect x="944.67" y="77.21" width="4.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Ball Market Cap: $12.63B</title>
+          <rect x="944.69" y="217.91" width="4.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Church &amp; Dwight Market Cap: $12.62B</title>
+          <rect x="944.7" y="171.01" width="4.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>AMETEK Market Cap: $12.51B</title>
+          <rect x="944.71" y="311.71" width="4.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Citrix Systems Market Cap: $12.49B</title>
+          <rect x="944.72" y="358.61" width="4.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Mettler Toledo Market Cap: $12.48B</title>
+          <rect x="944.86" y="30.31" width="4.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Cintas Market Cap: $12.42B</title>
+          <rect x="948.6" y="124.11" width="4.59" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>CMS Energy Market Cap: $12.42B</title>
+          <rect x="949.33" y="311.71" width="4.59" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>McCormick &amp; Co Market Cap: $12.39B</title>
+          <rect x="949.33" y="358.61" width="4.57" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Dover Market Cap: $12.35B</title>
+          <rect x="949.35" y="264.81" width="4.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Global Payments Market Cap: $12.31B</title>
+          <rect x="949.36" y="217.91" width="4.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>CenturyLink Market Cap: $12.3B</title>
+          <rect x="949.36" y="171.01" width="4.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Waters Market Cap: $12.28B</title>
+          <rect x="949.37" y="452.41" width="4.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>D. R. Horton Market Cap: $12.27B</title>
+          <rect x="949.37" y="77.21" width="4.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Centene Market Cap: $12.14B</title>
+          <rect x="949.38" y="405.51" width="4.48" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Hasbro Market Cap: $12.08B</title>
+          <rect x="949.47" y="30.31" width="4.46" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>CenterPoint Energy Market Cap: $12.06B</title>
+          <rect x="953.18" y="124.11" width="4.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Cincinnati Financial Market Cap: $12.05B</title>
+          <rect x="953.86" y="405.51" width="4.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>CBRE Group Market Cap: $12.02B</title>
+          <rect x="953.9" y="171.01" width="4.44" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Universal Health Services Market Cap: $11.95B</title>
+          <rect x="953.9" y="452.41" width="4.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Carmax Market Cap: $11.94B</title>
+          <rect x="953.9" y="217.91" width="4.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>ONEOK Market Cap: $11.92B</title>
+          <rect x="953.9" y="77.21" width="4.4" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Arconic Market Cap: $11.89B</title>
+          <rect x="953.9" y="358.61" width="4.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Lennar Market Cap: $11.89B</title>
+          <rect x="953.91" y="264.81" width="4.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>NASDAQ OMX Group Market Cap: $11.83B</title>
+          <rect x="953.91" y="311.71" width="4.37" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Alaska Air Group Market Cap: $11.74B</title>
+          <rect x="953.93" y="30.31" width="4.33" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Albemarle Market Cap: $11.68B</title>
+          <rect x="957.63" y="124.11" width="4.31" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Chipotle Mexican Grill Market Cap: $11.65B</title>
+          <rect x="958.26" y="30.31" width="4.3" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Cimarex Energy Market Cap: $11.6B</title>
+          <rect x="958.28" y="311.71" width="4.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Eastman Chemical Market Cap: $11.56B</title>
+          <rect x="958.29" y="358.61" width="4.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>NetApp Market Cap: $11.56B</title>
+          <rect x="958.3" y="264.81" width="4.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Hologic Market Cap: $11.44B</title>
+          <rect x="958.31" y="77.21" width="4.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Mid-America Apartments Market Cap: $11.44B</title>
+          <rect x="958.31" y="217.91" width="4.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>SL Green Realty Market Cap: $11.28B</title>
+          <rect x="958.31" y="405.51" width="4.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Advance Auto Parts Market Cap: $11.18B</title>
+          <rect x="958.31" y="452.41" width="4.13" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Unum Group Market Cap: $11.17B</title>
+          <rect x="958.34" y="171.01" width="4.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>C. H. Robinson Worldwide Market Cap: $11.15B</title>
+          <rect x="961.95" y="124.11" width="4.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tiffany &amp; Co Market Cap: $11.05B</title>
+          <rect x="962.44" y="452.41" width="4.08" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Akamai Technologies Market Cap: $10.96B</title>
+          <rect x="962.46" y="171.01" width="4.05" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>United Rentals Market Cap: $10.8B</title>
+          <rect x="962.48" y="405.51" width="3.99" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>J. B. Hunt Transport Services Market Cap: $10.75B</title>
+          <rect x="962.53" y="77.21" width="3.97" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Juniper Networks Market Cap: $10.75B</title>
+          <rect x="962.53" y="217.91" width="3.97" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Pentair Ltd Market Cap: $10.71B</title>
+          <rect x="962.56" y="30.31" width="3.95" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Cabot Oil &amp; Gas Market Cap: $10.67B</title>
+          <rect x="962.56" y="358.61" width="3.94" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>XL Capital Market Cap: $10.63B</title>
+          <rect x="962.56" y="311.71" width="3.92" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Coach Market Cap: $10.61B</title>
+          <rect x="962.57" y="264.81" width="3.92" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Masco Market Cap: $10.57B</title>
+          <rect x="966.06" y="124.11" width="3.9" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>The Mosaic Company Market Cap: $10.22B</title>
+          <rect x="966.46" y="405.51" width="3.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>EQT Market Cap: $10.16B</title>
+          <rect x="966.48" y="264.81" width="3.75" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Scripps Networks Interactive Market Cap: $10.14B</title>
+          <rect x="966.49" y="311.71" width="3.74" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Wynn Resorts Ltd Market Cap: $10.11B</title>
+          <rect x="966.5" y="77.21" width="3.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Expeditors Int'l Market Cap: $10.1B</title>
+          <rect x="966.5" y="217.91" width="3.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Foot Locker Market Cap: $10.09B</title>
+          <rect x="966.5" y="358.61" width="3.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Harley-Davidson Market Cap: $10.09B</title>
+          <rect x="966.51" y="171.01" width="3.73" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Perrigo Market Cap: $10.08B</title>
+          <rect x="966.52" y="30.31" width="3.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Arthur J. Gallagher &amp; Co Market Cap: $10.06B</title>
+          <rect x="966.52" y="452.41" width="3.71" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>SCANA Market Cap: $9.98B</title>
+          <rect x="969.96" y="124.11" width="3.68" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Total System Services Market Cap: $9.95B</title>
+          <rect x="970.23" y="358.61" width="3.67" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Extra Space Storage Market Cap: $9.92B</title>
+          <rect x="970.23" y="217.91" width="3.66" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Intl Flavors &amp; Fragrances Market Cap: $9.79B</title>
+          <rect x="970.23" y="77.21" width="3.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Snap-On Market Cap: $9.77B</title>
+          <rect x="970.23" y="311.71" width="3.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Tesoro Petroleum Co Market Cap: $9.75B</title>
+          <rect x="970.23" y="264.81" width="3.6" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Garmin Ltd Market Cap: $9.71B</title>
+          <rect x="970.23" y="452.41" width="3.58" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>UDR Market Cap: $9.69B</title>
+          <rect x="970.23" y="171.01" width="3.58" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Kimco Realty Market Cap: $9.68B</title>
+          <rect x="970.24" y="405.51" width="3.57" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Gap (The) Market Cap: $9.65B</title>
+          <rect x="970.24" y="30.31" width="3.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>E*Trade Market Cap: $9.63B</title>
+          <rect x="973.65" y="124.11" width="3.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Federal Realty Investment Trust Market Cap: $9.62B</title>
+          <rect x="973.8" y="30.31" width="3.55" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Leucadia National Market Cap: $9.59B</title>
+          <rect x="973.81" y="405.51" width="3.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Western Union Market Cap: $9.57B</title>
+          <rect x="973.81" y="171.01" width="3.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>The Cooper Companies Market Cap: $9.56B</title>
+          <rect x="973.82" y="452.41" width="3.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>LKQ Market Cap: $9.51B</title>
+          <rect x="973.83" y="264.81" width="3.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Interpublic Group Market Cap: $9.5B</title>
+          <rect x="973.84" y="311.71" width="3.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Kansas City Southern Market Cap: $9.49B</title>
+          <rect x="973.84" y="77.21" width="3.5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Affiliated Managers Group Market Cap: $9.44B</title>
+          <rect x="973.89" y="217.91" width="3.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Iron Mountainorporated Market Cap: $9.44B</title>
+          <rect x="973.9" y="358.61" width="3.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Macerich Market Cap: $9.39B</title>
+          <rect x="977.2" y="124.11" width="3.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Whole Foods Market Market Cap: $9.39B</title>
+          <rect x="977.34" y="264.81" width="3.47" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Macy's Market Cap: $9.37B</title>
+          <rect x="977.34" y="171.01" width="3.46" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tractor Supply Company Market Cap: $9.34B</title>
+          <rect x="977.34" y="311.71" width="3.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>F5 Networks Market Cap: $9.3B</title>
+          <rect x="977.35" y="452.41" width="3.43" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Darden Restaurants Market Cap: $9.25B</title>
+          <rect x="977.35" y="77.21" width="3.41" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Pinnacle West Capital Market Cap: $9.19B</title>
+          <rect x="977.35" y="405.51" width="3.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Torchmark Market Cap: $9.19B</title>
+          <rect x="977.35" y="30.31" width="3.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Zions Bancorp Market Cap: $9.17B</title>
+          <rect x="977.38" y="217.91" width="3.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Acuity Brands Market Cap: $9B</title>
+          <rect x="977.39" y="358.61" width="3.32" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Alliant Energy Market Cap: $8.94B</title>
+          <rect x="980.67" y="124.11" width="3.3" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Goodyear Tire &amp; Rubber Market Cap: $8.88B</title>
+          <rect x="980.71" y="358.61" width="3.28" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>BorgWarner Market Cap: $8.87B</title>
+          <rect x="980.74" y="405.51" width="3.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Fortune Brands Home &amp; Security Market Cap: $8.87B</title>
+          <rect x="980.74" y="30.31" width="3.27" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Xylem Market Cap: $8.75B</title>
+          <rect x="980.76" y="77.21" width="3.23" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Wyndham Worldwide Market Cap: $8.63B</title>
+          <rect x="980.76" y="217.91" width="3.19" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Sealed Air Market Cap: $8.59B</title>
+          <rect x="980.78" y="452.41" width="3.17" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Mattel Market Cap: $8.57B</title>
+          <rect x="980.79" y="311.71" width="3.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Verisign Market Cap: $8.56B</title>
+          <rect x="980.8" y="171.01" width="3.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Qorvo Market Cap: $8.46B</title>
+          <rect x="980.81" y="264.81" width="3.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Varian Medical Systems Market Cap: $8.04B</title>
+          <rect x="983.93" y="264.81" width="2.97" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>FMC Market Cap: $7.9B</title>
+          <rect x="983.95" y="217.91" width="2.92" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Harman Int'l Industries Market Cap: $7.79B</title>
+          <rect x="983.95" y="452.41" width="2.88" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Envision Healthcare Market Cap: $7.69B</title>
+          <rect x="983.96" y="311.71" width="2.84" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Fluor Market Cap: $7.68B</title>
+          <rect x="983.96" y="171.01" width="2.84" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>NiSource Market Cap: $7.6B</title>
+          <rect x="983.97" y="124.11" width="2.81" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Hanesbrands Market Cap: $7.57B</title>
+          <rect x="983.99" y="358.61" width="2.79" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Nordstrom Market Cap: $7.49B</title>
+          <rect x="983.99" y="77.21" width="2.77" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Xerox Market Cap: $7.48B</title>
+          <rect x="984.02" y="405.51" width="2.76" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>AES Market Cap: $7.47B</title>
+          <rect x="984.02" y="30.31" width="2.76" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Helmerich &amp; Payne Market Cap: $7.42B</title>
+          <rect x="986.76" y="77.21" width="2.74" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Pulte Homes Market Cap: $7.24B</title>
+          <rect x="986.78" y="30.31" width="2.67" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Apartment Investment &amp; Mgmt Market Cap: $7.13B</title>
+          <rect x="986.78" y="124.11" width="2.63" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>PVH Market Cap: $7.11B</title>
+          <rect x="986.78" y="405.51" width="2.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Avery Dennison Market Cap: $7.09B</title>
+          <rect x="986.78" y="358.61" width="2.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Newfield Exploration Market Cap: $7.08B</title>
+          <rect x="986.8" y="311.71" width="2.61" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>CF Industries Holdings Market Cap: $7.04B</title>
+          <rect x="986.8" y="171.01" width="2.6" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Allegion Market Cap: $6.96B</title>
+          <rect x="986.83" y="452.41" width="2.57" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Stericycle Market Cap: $6.91B</title>
+          <rect x="986.87" y="217.91" width="2.55" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Kohl's Market Cap: $6.87B</title>
+          <rect x="986.9" y="264.81" width="2.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Jacobs Engineering Group Market Cap: $6.84B</title>
+          <rect x="989.4" y="171.01" width="2.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Regency Centers Market Cap: $6.84B</title>
+          <rect x="989.4" y="452.41" width="2.53" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Range Resources Market Cap: $6.81B</title>
+          <rect x="989.4" y="358.61" width="2.51" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Intercontinental Exchange Market Cap: $6.75B</title>
+          <rect x="989.41" y="405.51" width="2.49" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Leggett &amp; Platt Market Cap: $6.63B</title>
+          <rect x="989.41" y="124.11" width="2.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Polo Ralph Lauren Market Cap: $6.51B</title>
+          <rect x="989.41" y="311.71" width="2.4" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>CBOE Holdings Market Cap: $6.34B</title>
+          <rect x="989.42" y="217.91" width="2.34" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Robert Half International Market Cap: $6.07B</title>
+          <rect x="989.44" y="264.81" width="2.24" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flowserve Market Cap: $6B</title>
+          <rect x="989.45" y="30.31" width="2.22" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>TripAdvisor Market Cap: $5.96B</title>
+          <rect x="989.5" y="77.21" width="2.2" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>PerkinElmer Market Cap: $5.94B</title>
+          <rect x="991.67" y="30.31" width="2.19" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>People's United Financial Market Cap: $5.9B</title>
+          <rect x="991.68" y="264.81" width="2.18" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Michael Kors Holdings Market Cap: $5.84B</title>
+          <rect x="991.7" y="77.21" width="2.16" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Bed Bath &amp; Beyond Market Cap: $5.73B</title>
+          <rect x="991.76" y="217.91" width="2.12" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Staples Market Cap: $5.71B</title>
+          <rect x="991.81" y="311.71" width="2.11" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Quanta Services Market Cap: $5.68B</title>
+          <rect x="991.86" y="124.11" width="2.1" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Assurant Market Cap: $5.54B</title>
+          <rect x="991.9" y="405.51" width="2.05" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tegna Market Cap: $5.54B</title>
+          <rect x="991.91" y="358.61" width="2.05" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>NRG Energy Market Cap: $5.4B</title>
+          <rect x="991.92" y="171.01" width="1.99" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Mallinckrodt Plc Market Cap: $5.2B</title>
+          <rect x="991.92" y="452.41" width="1.92" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>FLIR Systems Market Cap: $4.98B</title>
+          <rect x="993.84" y="452.41" width="1.84" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Murphy Oil Market Cap: $4.78B</title>
+          <rect x="993.85" y="77.21" width="1.76" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Chesapeake Energy Market Cap: $4.67B</title>
+          <rect x="993.86" y="30.31" width="1.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Transocean Market Cap: $4.67B</title>
+          <rect x="993.86" y="264.81" width="1.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>CSRA Market Cap: $4.65B</title>
+          <rect x="993.87" y="217.91" width="1.72" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>AutoNation Market Cap: $4.57B</title>
+          <rect x="993.92" y="171.01" width="1.69" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Signet Jewelers Market Cap: $4.4B</title>
+          <rect x="993.92" y="311.71" width="1.62" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Block H&amp;R Market Cap: $4.32B</title>
+          <rect x="993.94" y="405.51" width="1.59" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Navient Market Cap: $4.23B</title>
+          <rect x="993.95" y="124.11" width="1.56" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Patterson Companies Market Cap: $4.18B</title>
+          <rect x="993.96" y="358.61" width="1.54" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Ryder System Market Cap: $4.07B</title>
+          <rect x="995.5" y="358.61" width="1.5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Teradata Market Cap: $4.06B</title>
+          <rect x="995.52" y="124.11" width="1.5" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Dun &amp; Bradstreet Market Cap: $3.94B</title>
+          <rect x="995.54" y="405.51" width="1.45" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>FMC Technologies Market Cap: $3.76B</title>
+          <rect x="995.55" y="311.71" width="1.39" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Southwestern Energy Market Cap: $3.74B</title>
+          <rect x="995.58" y="30.31" width="1.38" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>First Solar Market Cap: $3.39B</title>
+          <rect x="995.58" y="264.81" width="1.25" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Frontier Communications Market Cap: $3.07B</title>
+          <rect x="995.59" y="217.91" width="1.13" height="41.27"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Urban Outfitters Market Cap: $2.95B</title>
+          <rect x="995.6" y="171.01" width="1.09" height="41.27"/>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <g stroke-linecap="square" stroke="#7F7F7F">
+      <path fill="none" d="M177.5,496.5 L177.5,27.5 M1008.5,496.5 L177.5,496.5"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
