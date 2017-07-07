@@ -191,10 +191,22 @@ Sub MakePackedBarsDialog()
             .Font.Color = RGB(170, 170, 170)
             .Font.Size = GraphHeight / 40
           End With
+         ' For j = 1 To nPrimaryBars
+          '  If py(j, i) >= iSecondaryLabelThreshold / 100 Then
+          '    .DataLabels(j).ShowCategoryName = True
+          '    .DataLabels(j).Text = plabel(j, i)
+         '   End If
+         ' Next j
           For j = 1 To nPrimaryBars
             If py(j, i) >= iSecondaryLabelThreshold / 100 Then
-              .DataLabels(j).ShowCategoryName = True
-              .DataLabels(j).Text = plabel(j, i)
+              .Points(j).HasDataLabel = True
+              With .DataLabels(j)
+                .ShowValue = False
+                .ShowCategoryName = True
+                .Text = plabel(j, i)
+                .Font.Color = RGB(170, 170, 170)
+                .Font.Size = GraphHeight / 40
+              End With
             End If
           Next j
           .DataLabels.ShowLegendKey = False
@@ -253,3 +265,5 @@ Sub MakePackedBarsDialog()
 ExitSub:
 
 End Sub
+
+
