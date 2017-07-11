@@ -7,6 +7,7 @@ bringing up the dialog.
 
 Developed by Xan Gregg @xangregg (chart algorithm) and Jon Peltier @Jon_Peltier (Excel interface).
 
+![alt text](https://github.com/xangregg/packedbars/blob/master/excel/packedbarsdialog.png "Packed Bars dialog screenshot")
 
 [Introduction to Packed Bars](https://community.jmp.com/t5/JMP-Blog/Introducing-packed-bars-a-new-chart-form/ba-p/39972)
 
