@@ -1,6 +1,6 @@
 ## Excel-related files
 
-The file **MakePackedBars.xmal** will install a ribbon item called "Packed Bars". The
+The file **MakePackedBars.xlam** will install a ribbon item called "Packed Bars". The
 icon in the ribbon will bring up a dialog with a few paramaters, such as the number of rows.
 You'll need to select two columns of data, one text and one numeric, either before or after
 bringing up the dialog. Place the xaml file in your add-ins directory to make it persistent.
