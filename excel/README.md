@@ -1,11 +1,22 @@
-Excel-related files
+## Excel-related files
+
+The file **InstallPackedBarsRibbon.xmal** will install a ribbon item called "Packed Bars". The
+icon in the ribbon will bring up a dialog with a few paramaters, such as the number of rows.
+You'll need to select two columns of data, one text, one numeric, either before or after
+bringing up the dialog.
+
+Developed by Xan Gregg @xangregg (chart algorithm) and Jon Peltier @Jon_Peltier (Excel interface).
+
+
+[Introduction to Packed Bars](https://community.jmp.com/t5/JMP-Blog/Introducing-packed-bars-a-new-chart-form/ba-p/39972)
+
+### Notes from the original VBA script:
 
 The VBA file is the script built-in to the MakePackedBars template.
 
 Notes from the VBA file:
 
 This script makes a Packed Bars chart from a two-column Excel data in columns A and B.
-For general info, see my [blog post](https://community.jmp.com/t5/JMP-Blog/Introducing-packed-bars-a-new-chart-form/ba-p/39972).
 
 This is my first VBA script, so don't assume I know what I'm doing but otherwise use
 this code as you see fit.
