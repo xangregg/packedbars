@@ -2,10 +2,11 @@
 
 The file **MakePackedBars.xmal** will install a ribbon item called "Packed Bars". The
 icon in the ribbon will bring up a dialog with a few paramaters, such as the number of rows.
-You'll need to select two columns of data, one text, one numeric, either before or after
+You'll need to select two columns of data, one text and one numeric, either before or after
 bringing up the dialog. Place the xaml file in your add-ins directory to make it persistent.
 
-Developed by Xan Gregg @xangregg (chart algorithm) and Jon Peltier @Jon_Peltier (Excel interface).
+Developed by Xan Gregg [@xangregg](https://twitter.com/xangregg) (chart algorithm)
+and Jon Peltier [@Jon_Peltier](https://twitter.com/Jon_Peltier) (Excel interface).
 
 ![alt text](https://github.com/xangregg/packedbars/blob/master/excel/packedbarsdialog.png "Packed Bars dialog screenshot")
 
