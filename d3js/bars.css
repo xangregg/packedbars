@@ -1,0 +1,43 @@
+
+svg {
+    font: 15px sans-serif;
+}
+
+.bar {
+    fill: #5b76c0;
+}
+
+.bar:hover {
+    fill: brown;
+}
+
+.axis--y path {
+    display: none;
+    font: 15px sans-serif;
+}
+.axis--x {
+    font: 15px sans-serif;
+}
+.bar1 {
+    font: 15px sans-serif;
+}
+.bar2 {
+    font: 15px sans-serif;
+}
+.label1 {
+    font: 15px sans-serif;
+}
+.label2 {
+    font: 12px sans-serif;
+}
+
+.x-title {
+    font: 15px sans-serif;
+}
+.y-title {
+    font: 15px sans-serif;
+}
+.graph-title {
+    font: 24px sans-serif;
+}
+
