@@ -3,6 +3,7 @@
 Simple usage:
 
 ```javascript
+<link rel="stylesheet" href="bars.css"/>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="makepackedbars.js"></script>
@@ -15,6 +16,7 @@ Simple usage:
 Fancier usage:
 
 ```javascript
+<link rel="stylesheet" href="bars.css"/>
 <svg width="960" height="500"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="makepackedbars.js"></script>
