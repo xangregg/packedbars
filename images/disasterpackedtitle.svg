@@ -1,0 +1,1246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="814" height="470" viewBox="-27 6 814 470">
+ <g stroke="#000000" fill="#000000" font-family="Segoe UI" font-size="16">
+  <g>
+   <g>
+    <clipPath id="clip1">
+     <path d="M-99999.5,6.5 L-99999.5,100000.5 L100000.5,100000.5 L100000.5,6.5 z"/>
+    </clipPath>
+    <g clip-path="url(#clip1)">
+     <g fill="#DDDDDD">
+      <rect stroke="none" x="23.5" y="31.5" width="776" height="399"/>
+     </g>
+     <g>
+      <clipPath id="clip2" clip-path="url(#clip1)">
+       <path d="M0.5,7.5 L0.5,29.5 L799.5,29.5 L799.5,7.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip2)">
+       <g>
+        <clipPath id="clip3" clip-path="url(#clip2)">
+         <path d="M187.5,7.5 L187.5,29.5 L611.5,29.5 L611.5,7.5 z"/>
+        </clipPath>
+        <g clip-path="url(#clip3)">
+         <g fill="#000000" font-family="Segoe UI Semibold">
+          <text stroke="none" x="188.5" y="25.5">Billion dollar US weather disasters through 2016 via NOAA</text>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip4" clip-path="url(#clip1)">
+       <path d="M23.5,458.5 L23.5,476.5 L799.5,476.5 L799.5,458.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip4)">
+       <g>
+        <clipPath id="clip5" clip-path="url(#clip4)">
+         <path d="M304.5,458.5 L304.5,474.5 L518.5,474.5 L518.5,458.5 z"/>
+        </clipPath>
+        <g clip-path="url(#clip5)">
+         <g fill="#000000" font-size="12">
+          <text stroke="none" x="305.5" y="471.5">CPI-Adjusted Estimated Cost (in Billions)</text>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip6" clip-path="url(#clip1)">
+       <path d="M13.5,430.5 L13.5,458.5 L809.5,458.5 L809.5,430.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip6)">
+       <g stroke="#A5A5A5">
+        <path fill="none" d="M23.5,430.5 L23.5,436.5"/>
+        <path fill="none" d="M116.5,430.5 L116.5,436.5"/>
+        <path fill="none" d="M209.5,430.5 L209.5,436.5"/>
+        <path fill="none" d="M302.5,430.5 L302.5,436.5"/>
+        <path fill="none" d="M395.5,430.5 L395.5,436.5"/>
+        <path fill="none" d="M488.5,430.5 L488.5,436.5"/>
+        <path fill="none" d="M581.5,430.5 L581.5,436.5"/>
+        <path fill="none" d="M674.5,430.5 L674.5,436.5"/>
+        <path fill="none" d="M767.5,430.5 L767.5,436.5"/>
+       </g>
+       <text stroke="none" x="23.5" y="437.5" dy="17.27" text-anchor="middle">$0</text>
+       <text stroke="none" x="116.5" y="437.5" dy="17.27" text-anchor="middle">$20</text>
+       <text stroke="none" x="209.5" y="437.5" dy="17.27" text-anchor="middle">$40</text>
+       <text stroke="none" x="302.5" y="437.5" dy="17.27" text-anchor="middle">$60</text>
+       <text stroke="none" x="395.5" y="437.5" dy="17.27" text-anchor="middle">$80</text>
+       <text stroke="none" x="488.5" y="437.5" dy="17.27" text-anchor="middle">$100</text>
+       <text stroke="none" x="581.5" y="437.5" dy="17.27" text-anchor="middle">$120</text>
+       <text stroke="none" x="674.5" y="437.5" dy="17.27" text-anchor="middle">$140</text>
+       <text stroke="none" x="767.5" y="437.5" dy="17.27" text-anchor="middle">$160</text>
+      </g>
+     </g>
+     <g>
+      <clipPath id="clip7" clip-path="url(#clip1)">
+       <path d="M23.5,430.5 L23.5,458.5 L799.5,458.5 L799.5,430.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip7)"/>
+     </g>
+     <g>
+      <clipPath id="clip8" clip-path="url(#clip1)">
+       <path d="M0.5,31.5 L0.5,430.5 L18.5,430.5 L18.5,31.5 z"/>
+      </clipPath>
+      <g clip-path="url(#clip8)"/>
+     </g>
+     <g fill="#FFFFFF">
+      <rect stroke="none" x="23.5" y="31.5" width="776" height="399"/>
+     </g>
+     <g>
+      <g>
+       <clipPath id="clip9" clip-path="url(#clip1)">
+        <path d="M23.5,31.5 L23.5,430.5 L799.5,430.5 L799.5,31.5 z"/>
+       </clipPath>
+       <g clip-path="url(#clip9)">
+        <g>
+         <g stroke="none" fill="#5476C6">
+          <title>Wilma 2005
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $24</title>
+          <rect x="23.5" y="391.6" width="113.03" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="410.55" dy="7.18">Wilma 2005</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Ivan 2004
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $27</title>
+          <rect x="23.5" y="351.7" width="126.06" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="370.65" dy="7.18">Ivan 2004</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Drought 1980
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $32</title>
+          <rect x="23.5" y="311.8" width="146.99" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="330.75" dy="7.18">Drought 1980</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Drought 2012
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $32</title>
+          <rect x="23.5" y="271.9" width="150.71" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="290.85" dy="7.18">Drought 2012</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Ike 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $35</title>
+          <rect x="23.5" y="232" width="161.88" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="250.95" dy="7.18">Ike 2008</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Flooding 1993
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $36</title>
+          <rect x="23.5" y="192.1" width="167.92" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="211.05" dy="7.18">Flooding 1993</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Drought 1988
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $42</title>
+          <rect x="23.5" y="152.2" width="197.23" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="171.15" dy="7.18">Drought 1988</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Andrew 1992
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $48</title>
+          <rect x="23.5" y="112.3" width="222.35" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="131.25" dy="7.18">Andrew 1992</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Sandy 2012
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $70</title>
+          <rect x="23.5" y="72.4" width="326.55" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="91.35" dy="7.18">Sandy 2012</text>
+         </g>
+         <g stroke="none" fill="#5476C6">
+          <title>Katrina 2005
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $160</title>
+          <rect x="23.5" y="32.5" width="744.26" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#FCFCFC" font-size="17">
+          <text stroke="none" x="28.5" y="51.45" dy="7.18">Katrina 2005</text>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Rita 2005
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $24</title>
+          <rect x="136.53" y="391.6" width="110.24" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#7F7F7F" font-size="13">
+          <text stroke="none" x="191.66" y="410.55" dy="5.52" text-anchor="middle">Rita 2005</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Charley 2004
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $21</title>
+          <rect x="149.56" y="351.7" width="98.15" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#838383" font-size="13">
+          <text stroke="none" x="198.63" y="370.65" dy="5.52" text-anchor="middle">Charley 2004</text>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Hugo 1989
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $18</title>
+          <rect x="170.49" y="311.8" width="84.66" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#7F7F7F" font-size="13">
+          <text stroke="none" x="212.82" y="330.75" dy="5.52" text-anchor="middle">Hugo 1989</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Irene 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $15</title>
+          <rect x="174.21" y="271.9" width="69.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#777777" font-size="13">
+          <text stroke="none" x="209.1" y="290.85" dy="5.52" text-anchor="middle">Irene 2011</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Drought 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $13</title>
+          <rect x="185.38" y="232" width="61.87" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#838383" font-size="13">
+          <text stroke="none" x="216.31" y="241.45" dy="5.52" text-anchor="middle">Drought </text>
+          <text stroke="none" x="216.31" y="260.45" dy="5.52" text-anchor="middle">2011</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Frances 2004
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $13</title>
+          <rect x="191.42" y="192.1" width="60.01" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#838383" font-size="13">
+          <text stroke="none" x="221.43" y="201.55" dy="5.52" text-anchor="middle">Frances </text>
+          <text stroke="none" x="221.43" y="220.55" dy="5.52" text-anchor="middle">2004</text>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Drought 2002
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $12</title>
+          <rect x="220.73" y="152.2" width="57.68" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#7B7B7B" font-size="13">
+          <text stroke="none" x="249.57" y="161.65" dy="5.52" text-anchor="middle">Drought </text>
+          <text stroke="none" x="249.57" y="180.65" dy="5.52" text-anchor="middle">2002</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Allison 2001
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $12</title>
+          <rect x="243.99" y="271.9" width="55.35" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#838383" font-size="13">
+          <text stroke="none" x="271.67" y="281.35" dy="5.52" text-anchor="middle">Allison </text>
+          <text stroke="none" x="271.67" y="300.35" dy="5.52" text-anchor="middle">2001</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $12</title>
+          <rect x="245.85" y="112.3" width="53.96" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#838383" font-size="13">
+          <text stroke="none" x="272.83" y="121.75" dy="5.52" text-anchor="middle">Flooding</text>
+          <text stroke="none" x="272.83" y="140.75" dy="5.52" text-anchor="middle">2008</text>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Tornadoes 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $11</title>
+          <rect x="246.78" y="391.6" width="52.56" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#878787" font-size="13">
+          <text stroke="none" x="273.06" y="401.05" dy="5.52" text-anchor="middle">Torna…</text>
+          <text stroke="none" x="273.06" y="420.05" dy="5.52" text-anchor="middle">2011</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 2013
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $11</title>
+          <rect x="247.24" y="232" width="51.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#777777" font-size="13">
+          <text stroke="none" x="273.06" y="241.45" dy="5.52" text-anchor="middle">Drought</text>
+          <text stroke="none" x="273.06" y="260.45" dy="5.52" text-anchor="middle">2013</text>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $10</title>
+          <rect x="247.71" y="351.7" width="47.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#777777" font-size="13">
+          <text stroke="none" x="271.67" y="361.15" dy="5.52" text-anchor="middle">Flood…</text>
+          <text stroke="none" x="271.67" y="380.15" dy="5.52" text-anchor="middle">2016</text>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Matthew 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $10</title>
+          <rect x="251.43" y="192.1" width="47.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#7F7F7F" font-size="13">
+          <text stroke="none" x="275.39" y="201.55" dy="5.52" text-anchor="middle">Matth…</text>
+          <text stroke="none" x="275.39" y="220.55" dy="5.52" text-anchor="middle">2016</text>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Tornadoes 2011 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $10</title>
+          <rect x="255.15" y="311.8" width="46.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Jeanne 2004
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $10</title>
+          <rect x="278.41" y="152.2" width="46.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Floyd 1999
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $10</title>
+          <rect x="295.62" y="351.7" width="45.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Winter Storm 1993
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $10</title>
+          <rect x="298.88" y="232" width="44.19" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Georges 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $9</title>
+          <rect x="299.34" y="391.6" width="42.33" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 1995
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $9</title>
+          <rect x="299.34" y="271.9" width="41.4" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Drought 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $8</title>
+          <rect x="299.34" y="192.1" width="37.68" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Fran 1996
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $8</title>
+          <rect x="299.81" y="112.3" width="37.21" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Opal 1995
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $8</title>
+          <rect x="302.13" y="311.8" width="35.35" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Alicia 1983
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $8</title>
+          <rect x="324.46" y="152.2" width="34.89" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 1983
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="337.02" y="192.1" width="34.42" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Drought 2006
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="337.02" y="112.3" width="34.42" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Isabel 2003
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="337.49" y="311.8" width="34.42" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 2000
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="340.74" y="351.7" width="33.49" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Gustav 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="340.74" y="271.9" width="32.56" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Drought 2003
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="341.67" y="391.6" width="31.17" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Freeze 1990
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $7</title>
+          <rect x="343.07" y="232" width="30.24" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Drought 1989
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $6</title>
+          <rect x="350.05" y="72.4" width="28.38" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Wildfires 1991
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $6</title>
+          <rect x="359.35" y="152.2" width="27.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Flooding 1997
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $6</title>
+          <rect x="371.44" y="192.1" width="26.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 2003
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $6</title>
+          <rect x="371.44" y="112.3" width="26.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 1991
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $6</title>
+          <rect x="371.91" y="311.8" width="25.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Iniki 1992
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $6</title>
+          <rect x="372.84" y="391.6" width="25.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Drought 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="373.3" y="232" width="25.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Wildfires 2003
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="373.3" y="271.9" width="24.65" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Freeze 1983
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="374.23" y="351.7" width="23.26" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Winter Storm 1994
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="378.42" y="72.4" width="23.26" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Flooding 1996
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="387.26" y="152.2" width="22.33" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Drought 2015
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="397.49" y="351.7" width="21.86" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 1997 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $5</title>
+          <rect x="397.49" y="311.8" width="21.4" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Winter Storm 1992
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="397.49" y="112.3" width="20.47" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 2007
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="397.96" y="271.9" width="20" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Hail Storm 2001
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="397.96" y="192.1" width="20" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2010
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="398.42" y="391.6" width="20" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Drought 2014
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="398.42" y="232" width="19.54" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 2009
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="401.68" y="72.4" width="19.07" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 1995
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="409.59" y="152.2" width="19.07" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Drought 1986
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="417.96" y="271.9" width="18.61" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Freeze 1989
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="417.96" y="232" width="18.61" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 2014
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="417.96" y="192.1" width="18.14" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 1983
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="417.96" y="112.3" width="17.68" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Freeze 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="418.42" y="391.6" width="17.68" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2010 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="418.89" y="311.8" width="17.68" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Drought 1999
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="419.35" y="351.7" width="17.21" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 1983 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="420.75" y="72.4" width="17.21" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Drought 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="428.66" y="152.2" width="16.75" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Hail Storm 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="435.64" y="112.3" width="16.75" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Juan 1985
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="436.1" y="391.6" width="16.28" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="436.1" y="192.1" width="16.28" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 2012
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $4</title>
+          <rect x="436.57" y="311.8" width="16.28" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Marilyn 1995
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="436.57" y="271.9" width="15.82" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 2012
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="436.57" y="232" width="15.82" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="436.57" y="351.7" width="15.35" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Wildfires 2007
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="437.96" y="72.4" width="15.35" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Dennis 2005
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="445.4" y="152.2" width="14.89" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Wildfires 2015
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="451.92" y="351.7" width="14.89" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2012 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="452.38" y="391.6" width="14.42" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 2011 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="452.38" y="271.9" width="14.42" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Winter Storm 2015
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="452.38" y="232" width="14.42" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Elena 1985
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="452.38" y="192.1" width="13.95" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2007
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="452.38" y="112.3" width="13.95" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Isaac 2012
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="452.85" y="311.8" width="13.95" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Tornadoes 1999
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="453.31" y="72.4" width="13.95" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 2006
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="460.29" y="152.2" width="13.95" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2002
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.34" y="192.1" width="13.49" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Drought 1996
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.34" y="112.3" width="13.02" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 2016 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.8" y="391.6" width="13.02" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Freeze 1985
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.8" y="311.8" width="13.02" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Lee 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.8" y="271.9" width="13.02" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2012 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.8" y="232" width="13.02" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Bob 1991
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="466.8" y="351.7" width="12.56" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2003 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="467.27" y="72.4" width="12.56" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2010
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="474.24" y="152.2" width="12.09" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2015
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.36" y="112.3" width="12.09" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Freeze 2007
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.36" y="351.7" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Hail 2017
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.83" y="391.6" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.83" y="311.8" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2012 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.83" y="271.9" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tornadoes 2013
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.83" y="232" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tornadoes 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.83" y="72.4" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Wildfires 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $3</title>
+          <rect x="479.83" y="192.1" width="11.63" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 2016 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="486.34" y="152.2" width="11.16" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 2011 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="490.99" y="351.7" width="11.16" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Wildfires 1993
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="391.6" width="11.16" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Tornadoes 2011 5
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="311.8" width="10.7" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Winter Storm 2014
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="271.9" width="10.7" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Drought 1993
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="232" width="10.23" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 1980
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="112.3" width="10.23" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2011 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="72.4" width="10.23" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2017
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="491.46" y="192.1" width="10.23" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2010 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="497.5" y="152.2" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 2015 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="501.69" y="232" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Flooding 2015 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="501.69" y="112.3" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Hail Storm 2016 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="501.69" y="72.4" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2013
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="501.69" y="192.1" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 2017 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="502.15" y="311.8" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Tornadoes 2017
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="502.15" y="271.9" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Winter Storm 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="502.15" y="351.7" width="9.77" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Gloria 1985
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="502.62" y="391.6" width="9.3" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2009
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="507.27" y="152.2" width="9.3" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2014 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.46" y="232" width="9.3" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Tornadoes 2006 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.46" y="112.3" width="9.3" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Wildfires 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.46" y="72.4" width="9.3" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Winter Storm 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.46" y="192.1" width="9.3" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Allen 1980
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.92" y="391.6" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Drought 2005
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.92" y="311.8" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 1990
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.92" y="271.9" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 2006
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="511.92" y="351.7" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2008 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="516.57" y="152.2" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tornadoes 2009
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="391.6" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Tornadoes 2013 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="311.8" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Wildfires 2012
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="271.9" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Winter Storm 1985
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="232" width="8.84" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Flooding 2014
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="112.3" width="8.37" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 2016
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="72.4" width="8.37" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Tornadoes 2017 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="192.1" width="8.37" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Wildfires 2002
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="520.76" y="351.7" width="8.37" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Wildfires 2006
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="525.41" y="152.2" width="8.37" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Alberto 1994
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.13" y="112.3" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 1994
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.13" y="72.4" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Flooding 2017
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.13" y="192.1" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Freeze 2007 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.13" y="351.7" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Hail Storm 1992
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.6" y="391.6" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2006
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.6" y="311.8" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2011
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.6" y="271.9" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 1998 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="529.6" y="232" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2009 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="533.79" y="152.2" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 1994
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.04" y="112.3" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Winter Storm 1982
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.04" y="72.4" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Winter Storm 1994 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.04" y="192.1" width="7.91" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 2013
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.04" y="351.7" width="7.44" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Flooding 1996 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.51" y="391.6" width="7.44" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Hail Storm 1990
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.51" y="311.8" width="7.44" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2015
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.51" y="271.9" width="7.44" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Wildfires 2000
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="537.51" y="232" width="7.44" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Bonnie 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="541.69" y="152.2" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Dolly 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.48" y="351.7" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 1997 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="391.6" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 2017 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="311.8" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Lili 2002
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="271.9" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2009 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="232" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2013 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="112.3" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2014 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="72.4" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 2014 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="544.95" y="192.1" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 2016 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="548.67" y="152.2" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Winter Storm 1999
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="551.46" y="351.7" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Winter Storm 1998 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $2</title>
+          <rect x="551.93" y="391.6" width="6.98" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 1984
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="551.93" y="311.8" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 1998
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="551.93" y="271.9" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 1992
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="551.93" y="232" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2003 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="551.93" y="112.3" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 2008 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="551.93" y="72.4" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2011 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="551.93" y="192.1" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Wildfires 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="555.65" y="152.2" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Winter Storm 1989
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="311.8" width="6.51" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 2004
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="271.9" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 1992 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="232" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 2011 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="112.3" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2015 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="72.4" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tornadoes 1982
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="351.7" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Tornadoes 2008
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.44" y="192.1" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 2015
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="558.9" y="391.6" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Winter Storm 1999 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="562.16" y="152.2" width="6.05" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 1986
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.49" y="271.9" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Hail Storm 2009
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.49" y="232" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 1982
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.49" y="112.3" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 1991
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.49" y="72.4" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2003 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.49" y="351.7" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2008 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.49" y="192.1" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Severe Weather 2015 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.95" y="391.6" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 2016 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="564.95" y="311.8" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Severe Weather 2016 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="568.21" y="152.2" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Tornadoes 2011 6
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.07" y="271.9" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Tornadoes 2012 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.07" y="232" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Tornadoes 2013 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.07" y="112.3" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Wildfires 1994
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.07" y="72.4" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Wildfires 2009
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.07" y="351.7" width="5.58" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Flooding 1981
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.07" y="192.1" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Flooding 2010 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.53" y="391.6" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Flooding 2013 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="570.53" y="311.8" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Flooding 2014 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="573.79" y="152.2" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Severe Weather 1984
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.18" y="192.1" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D4D4D4">
+          <title>Severe Weather 1989
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="391.6" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Severe Weather 2013 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="311.8" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D0D0D0">
+          <title>Tornadoes 2012 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="271.9" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Tornadoes 2016 2
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="232" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#D8D8D8">
+          <title>Tornadoes 2017 3
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="112.3" width="5.12" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#E0E0E0">
+          <title>Flooding 2016 4
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="72.4" width="4.65" height="38.9"/>
+         </g>
+         <g stroke="none" fill="#DCDCDC">
+          <title>Freeze 2017
+Mean(CPI-Adjusted Estimated Cost (in Billions)): $1</title>
+          <rect x="575.65" y="351.7" width="4.65" height="38.9"/>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <g stroke-linecap="square" stroke="#A5A5A5">
+      <path fill="none" d="M23.5,430.5 L23.5,31.5 M799.5,430.5 L23.5,430.5"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
